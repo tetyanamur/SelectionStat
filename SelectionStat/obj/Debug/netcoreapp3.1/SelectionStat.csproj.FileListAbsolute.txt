@@ -1,0 +1,14 @@
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.csproj.AssemblyReference.cache
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.AssemblyInfoInputs.cache
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.AssemblyInfo.cs
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.csproj.CoreCompileInputs.cache
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\bin\Debug\netcoreapp3.1\SelectionStat.exe
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\bin\Debug\netcoreapp3.1\SelectionStat.deps.json
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\bin\Debug\netcoreapp3.1\SelectionStat.runtimeconfig.json
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\bin\Debug\netcoreapp3.1\SelectionStat.runtimeconfig.dev.json
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\bin\Debug\netcoreapp3.1\SelectionStat.dll
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\bin\Debug\netcoreapp3.1\SelectionStat.pdb
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.dll
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.pdb
+C:\Users\oksyp\repos\SelectionStat\SelectionStat\obj\Debug\netcoreapp3.1\SelectionStat.genruntimeconfig.cache
